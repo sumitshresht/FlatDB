@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "address": {
+        "zip": "110001",
+        "city": "Delhi"
+      },
+      "name": "Alice",
+      "age": 30
+    },
+    {
+      "address": {
+        "zip": "110002",
+        "city": "Delhi"
+      },
+      "name": "Charlie",
+      "age": 35
+    }
+  ]
+}
