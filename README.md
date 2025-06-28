@@ -2,7 +2,7 @@
 
 # 🚀 FlatDB
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.sumitshresht/SecureZip.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.sumitshresht/SecureZip)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sumitshresht/SecureZip.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.sumitshresht/FlatDB)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Java](https://img.shields.io/badge/Java-8+-blue.svg)
 ![JUnit](https://img.shields.io/badge/Tested-JUnit5-brightgreen)
