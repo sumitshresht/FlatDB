@@ -2,6 +2,12 @@
 
 # 🚀 FlatDB
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sumitshresht/SecureZip.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.sumitshresht/SecureZip)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Java](https://img.shields.io/badge/Java-8+-blue.svg)
+![JUnit](https://img.shields.io/badge/Tested-JUnit5-brightgreen)
+
+
 A lightweight, fast, and simple **Flat-File NoSQL Database** for Java applications. Designed for simplicity and flexibility, FlatDB stores data in plain JSON files while providing a powerful in-memory querying engine — perfect for small projects, prototyping, embedded apps, and developer tools.
 
 ---
